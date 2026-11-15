@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>One fire record for any place on Earth, from 2000 to today, that does not jump when satellites change.</b><br>
-  NASA Space Apps Challenge 2026 · <i>Harmonization of MODIS and VIIRS Hot Spots</i> · Team Off The Binary, Bangladesh
+  NASA Space Apps Challenge 2026 · <i>Harmonization of MODIS and VIIRS Hot Spots</i> · Team Off The Binary, INDIA
 </p>
 
 <p align="center">
