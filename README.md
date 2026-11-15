@@ -191,7 +191,7 @@ Detections are not fires and not burned area. Kiln Watch is an independent proje
 
 ## Team Off The Binary
 
-<p align="center"><i>From Bangladesh</i></p>
+<p align="center"><i>From India</i></p>
 
 <table align="center">
 <tr>
